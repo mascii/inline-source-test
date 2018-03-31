@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "inline-source": "^5.2.6"
+    "inline-source": "^6.1.4"
   }
 }
